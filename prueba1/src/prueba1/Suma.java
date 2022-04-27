@@ -3,7 +3,7 @@ package prueba1;
 import javax.swing.JOptionPane;
 
 public class Suma {
-
+ 
 	public static void main(String[] args) {
 
 		String str = JOptionPane.showInputDialog("Introduzca un número");
